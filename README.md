@@ -109,5 +109,7 @@ git pull-request [username] [branch]
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 
 ## :link: Deployment
-- **Vercel** : 
-- **GitHub** :
+- **Vercel** : https://sampark-murex.vercel.app/
+- **GitHub** : https://github.com/Megh2005/Sampark-AI
+
+**_Please dont forget to visit my GitHub repository and please hit a :star: in the GitHub repository_**
