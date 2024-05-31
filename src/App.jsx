@@ -13,9 +13,7 @@ function App() {
     setAnswer("Generating Response...");
     try {
       const response = await axios({
-        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${
-          import.meta.env.AI_GENERATIVE
-        }`,
+        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyADoXQMjbhqeoticLNwhIztvTMDEDkxSGs`,
         method: "post",
         data: {
           contents: [{ parts: [{ text: question }] }],
