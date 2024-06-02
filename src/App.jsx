@@ -19,8 +19,6 @@ function App() {
           contents: [{ parts: [{ text: question }] }],
         },
       });
-      console.log(response)
-
       setAnswer(
         response["data"]["candidates"][0]["content"]["parts"][0]["text"]
       );
