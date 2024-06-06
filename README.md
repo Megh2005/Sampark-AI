@@ -111,5 +111,6 @@ git pull-request [username] [branch]
 ## :link: Deployment
 - **Vercel** : https://sampark-murex.vercel.app/
 - **GitHub** : https://github.com/Megh2005/Sampark-AI
+- **YouTube** : https://youtu.be/tiqh8FR8Tcw/
 
 **_Please dont forget to visit my GitHub repository and please hit a :star: in the GitHub repository_**
