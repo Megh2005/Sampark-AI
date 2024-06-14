@@ -71,7 +71,7 @@ http://localhost:5173
 **I am not so good at frontend. I have coded a very basic CSS and requesting all frontend developers to contribute an attractive frontend. If you have any ideas for improvements & new features, feel free to open an issue or submit a pull request :**
 > Fork The Repository
 ```sh
-git remote -v https://github.com/Megh2005/Samarth-AI.git
+git remote -v https://github.com/Megh2005/Sampark-AI.git
 ```
 > Create New Branch 
 ```sh
