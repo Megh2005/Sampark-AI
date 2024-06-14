@@ -91,26 +91,26 @@ git pull-request [username] [branch]
 ```
 
 ## :computer: Tech Stack
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=vite&theme=dark)](https://sampark-murex.vercel.app/)
 &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://sampark-murex.vercel.app/)
 &nbsp;
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://sampark-murex.vercel.app/)
 &nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://sampark-murex.vercel.app/)
 &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://sampark-murex.vercel.app/)
 &nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=md&theme=dark)](https://sampark-murex.vercel.app/)
 &nbsp;
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)
-&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 
 ## :link: Deployment
-- **Vercel** : https://sampark-murex.vercel.app/
-- **GitHub** : https://github.com/Megh2005/Sampark-AI
-- **YouTube** : https://youtu.be/tiqh8FR8Tcw/
+[![My Skills](https://skillicons.dev/icons?i=vercel&theme=dark)](https://sampark-murex.vercel.app/)
+&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=netlify&theme=dark)](https://sampark-ai.netlify.app/)
+&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Megh2005/Sampark-AI/)
+&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://tinyurl.com/sampark-demo/)
 
 **_Please dont forget to visit my GitHub repository and please hit a :star: in the GitHub repository_**
