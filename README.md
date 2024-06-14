@@ -1,6 +1,6 @@
 # :robot: Sampark AI
 
-## :eyes: Overview
+## :notebook_with_decorative_cover: Overview
 
 **Sampark is an artificial intelligence enabled chat application which is controlled by Google **Gemini** {Pro} API. Integration of a gemini pro api key sllows you to generate response from Gemini directly. In **Sampark** you need to enter your question in the given space and hit the **`Generate Response`** button. The Gemini AI model will generate the most precised and to the point answers for you.**
 
